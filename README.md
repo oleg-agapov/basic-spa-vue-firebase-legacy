@@ -1,6 +1,10 @@
-# demo-app
+# Basic Single Page application using Vue.js and Firebase
 
-> A Vue.js project
+> A Vue.js/Firebase project
+
+Tutorial you can find here:
+
+Part 1 — 
 
 ## Build Setup
 
@@ -14,17 +18,5 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
