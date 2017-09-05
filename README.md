@@ -2,6 +2,8 @@
 
 > A Vue.js/Firebase project
 
+Tutorial you can find here:
+
 Part 1 — 
 
 ## Build Setup
