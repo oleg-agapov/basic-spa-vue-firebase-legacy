@@ -4,7 +4,7 @@
 
 Tutorial you can find here:
 
-Part 1 — 
+Part 1 — https://medium.com/@oleg.agapov/basic-single-page-application-using-vue-js-and-firebase-part-1-9e4c0c11a228
 
 ## Build Setup
 
