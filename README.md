@@ -6,6 +6,8 @@ Tutorial you can find here:
 
 Part 1 — https://medium.com/@oleg.agapov/basic-single-page-application-using-vue-js-and-firebase-part-1-9e4c0c11a228
 
+Part 2 - https://medium.com/@oleg.agapov/basic-single-page-application-using-vue-js-and-firebase-part-2-143a3084266f
+
 ## Build Setup
 
 ``` bash
